@@ -25,6 +25,13 @@ body{
 #about > h1{
     margin:0;
 }
+#about > h2{
+    margin:"0"
+}
+#about > h3{
+    
+    text-align: center;
+}
 
 #project-list{
     width:auto;
